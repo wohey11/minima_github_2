@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Ein zweiter Post
 tags:
   - new
